@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/esecmbvp5ifd1.gif)
+![MasterHead](https://i.redd.it/esecmbvp5ifd1.gif)
 <h1 align="center">Hi 👋, I'm Naval Dhiman</h1>
 <h3 align="center">A dedicated and innovative frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
